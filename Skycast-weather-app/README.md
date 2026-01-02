@@ -112,7 +112,8 @@ Lambda responsibilities:
 
 3. Check email inbox  
    → SNS weather report received
-    ![WhatsApp Image 2025-12-31 at 4 08 35 PM](https://github.com/user-attachments/assets/96841ade-c3e8-44a2-87bc-3da50b03fd4e)
+  <img width="733" height="158" alt="image" src="https://github.com/user-attachments/assets/1dd12558-10bc-40c5-b334-6bb5591cde44" />
+
 
 ## ⚠️ Limitations
 - Depends on external weather API availability
